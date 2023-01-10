@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancastBootstrap", "LancastBootstrap\LancastBootstrap.csproj", "{9A010869-A30E-4BD7-8416-0994863E272B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A010869-A30E-4BD7-8416-0994863E272B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A010869-A30E-4BD7-8416-0994863E272B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A010869-A30E-4BD7-8416-0994863E272B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A010869-A30E-4BD7-8416-0994863E272B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E70DD5BB-9DF6-4701-B57C-BBCBF3EE2C20}
+	EndGlobalSection
+EndGlobal
